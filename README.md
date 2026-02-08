@@ -1,3 +1,6 @@
+![The Scales of Reason](책표지v3.png)
+
+---
 This framework was first proposed by Son Ho-seong on February 8, 2026.
 Apache License 2.0
 
